@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://download.meizu.com/Firmware/Flyme/16/8.20.11.3/cn_daily/20201103045600/baafee54/update.zip",
+  "rom_url": "https://download.meizu.com/Firmware/Flyme/16s/8.20.11.3/cn_daily/20201103012547/efe9e0c4/update.zip",
   "rom_name": "update.zip",
-  "pack_sgsi": "Flyme-meizu16-8.20.11.3-q-20201103_XiaoxinSGSIs_Pinkdoge.7z",
+  "pack_sgsi": "Flyme-meizu16s-8.20.11.3-q-20201103_XiaoxinSGSIs_Pinkdoge.7z",
   "make_miui": false,
   "make_flyme": true,
   "make_coloros": false,

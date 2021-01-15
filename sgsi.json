@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://download.meizu.com/Firmware/Flyme/meizu17_Pro/8.20.12.22/cn_daily/20201222011108/bf865dd0/update.zip",
-  "rom_name": "update.zip",
-  "pack_sgsi": "Flyme-meizu17pro-11_XiaoxinSGSIs_Pinkdoge.7z",
+  "rom_url": "https://sysupwsdl.vivo.com.cn/upgrade/upload/UpdateFiles/202101072122578ee2268fdafd4fd41e27655c94b22c12.zip",
+  "rom_name": "202101072122578ee2268fdafd4fd41e27655c94b22c12.zip",
+  "pack_sgsi": "vivo-nex3s-10_XiaoxinSGSIs_Pinkdoge.7z",
   "make_miui": false,
   "make_flyme": true,
   "make_coloros": false,
